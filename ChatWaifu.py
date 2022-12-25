@@ -1,5 +1,3 @@
-import utils
-import commons
 import sys
 import re
 import winsound
