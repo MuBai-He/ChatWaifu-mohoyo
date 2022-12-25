@@ -3,7 +3,6 @@ import re
 import winsound
 import requests
 
-
 ####################################
 #CHATGPT INITIALIZE
 from pyChatGPT import ChatGPT
@@ -43,9 +42,6 @@ def get_token():
 
       
 ################################################
-
-
-logging.getLogger('numba').setLevel(logging.WARNING)
 
 
 def ex_print(text, escape=False):
