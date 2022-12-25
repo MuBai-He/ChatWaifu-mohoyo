@@ -57,18 +57,11 @@ Python:`.\chatWaifu\Scripts\activate.bat`
 `pip install -r requirements.txt`
 ![](readme/4.png)
 
-## <span id=".model">2.导入模型到根目录model文件夹:</span>
-Google Drive:https://drive.google.com/file/d/1tMCafhnUoL7FbevVQ44VQi-WznDjt23_/view?usp=sharing
-
-阿里云盘: https://www.aliyundrive.com/s/9JEj1mp1ZRv 提取码: m2y3
-
-### <span id="cd1">2.1移动到项目根目录下双击导入model</span>
-
-## <span id="22">3.运行（快和老婆们对话吧:</span>
+## <span id="22">2.运行（快和老婆们对话吧:</span>
 
 打字输入版：`python ChatWaifu.py`
 
-语音对话版（日语和英语输入默认日语输出）：`python ChatWaifuVoice.py`
+语音对话版（日语和英语输入默认中文输出）：`python ChatWaifuVoice.py`
 
 ### <span id="333">3.1 获取ChatGPT Token</span>
 #### 在浏览器登入https://chat.openai.com
