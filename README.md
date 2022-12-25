@@ -17,9 +17,6 @@
 * [x] 回答转语音
 * [x] 多角色语音
 * [x] 语音识别对话 (研发了一款真正人性化的智能语音Q宝
-* [x] [对接Marai机器人](https://github.com/MuBai-He/ChatWaifu-marai)
-* [x] [对接Live2D的UI版本](https://github.com/cjyaddone/ChatWaifuL2D)
-
 
 
 # 目录
@@ -29,9 +26,7 @@
 	* 1.2 [创建Python虚拟环境:](#99)
 	* 1.3 [进入创建好的虚拟环境:](#venv)
 	* 1.4 [pip安装项目所需要的库文件:](#pip)
-* [2.导入模型到根目录model文件夹（如果没有自行创建):](#.model)
-	* 2.1 [双击导入model](#cd1)
-* [3.运行（快和我的老婆们对话吧:](#22)
+* [2.运行（快和我的老婆们对话吧:](#22)
 	* 3.1 [获取ChatGPT Token](#333)
 	* 3.2 [开始和CyberWaifu聊天](#444)
 * [4.鸣谢](#915)
