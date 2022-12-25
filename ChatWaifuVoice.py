@@ -1,5 +1,3 @@
-import utils
-import commons
 import sys
 import re
 import logging
@@ -8,6 +6,7 @@ import argparse
 import queue
 import sounddevice as sd
 from vosk import Model, KaldiRecognizer
+voice_api = "http://267978.proxy.nscc-gz.cn:8888"
 
 q = queue.Queue()
 def int_or_str(text):
