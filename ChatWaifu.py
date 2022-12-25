@@ -2,7 +2,7 @@ import utils
 import commons
 import sys
 import re
-from winsound import PlaySound
+import winsound
 import requests
 
 
@@ -101,4 +101,4 @@ if __name__ == "__main__":
             answer = resp["message"].replace('\n','')
             print("ChatGPT:")
             print(answer)
-            PlaySound(generateSound(answer, speaker), winsound.SND_MEMORY)
+            winsound.PlaySound(generateSound(answer, speaker), winsound.SND_MEMORY)
