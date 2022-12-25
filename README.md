@@ -12,8 +12,6 @@
 
 ### 这是一个使用TTS+VITS的ChatGPT语音对话程序!
 
-效果演示BiliBIli:[《青春猪头少年不会梦见赛博女友》](https://www.bilibili.com/video/BV1rv4y1Q7eT "BiliBili")
-
 **当前支持功能：**
 * [x] ChatGPT的对话聊天
 * [x] 回答转语音
@@ -76,20 +74,6 @@ Google Drive:https://drive.google.com/file/d/1tMCafhnUoL7FbevVQ44VQi-WznDjt23_/v
 打字输入版：`python ChatWaifu.py`
 
 语音对话版（日语和英语输入默认日语输出）：`python ChatWaifuVoice.py`
-
-### 以下也可以使用，每个文件只对应一种语音输出输入模式
-
-打字日语版：`python ChatWaifuJP.py`
-
-打字中文版：`python ChatWaifuCN.py`
-
-日语语音对话版（使用中文）：`python ChatWaifuJPVoice.py`
-
-中文语音对话版（使用中文）：`python ChatWaifuCNVoice.py`
-
-日文语音对话版（使用英文）：`python ChatWaifuJPVoiceEN.py`
-
-日语语音对话版（使用日文）：`python ChatWaifuJPVoiceJP.py`
 
 ### <span id="333">3.1 获取ChatGPT Token</span>
 #### 在浏览器登入https://chat.openai.com
